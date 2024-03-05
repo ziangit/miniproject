@@ -49,7 +49,7 @@ docker-compose up --build
 Access the application
 
 Frontend: http://localhost:8080
-Backend (GraphQL Playground): http://localhost:4000/graphql
+Backend (GraphQL Playground): http://localhost:3000/graphql
 
 ## Usage
 After starting the application, navigate to the frontend URL. Start typing a U.S. state name in the search bar to see typeahead suggestions. Selecting a state will dynamically update the map and highlight the selected state.
