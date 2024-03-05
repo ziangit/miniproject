@@ -35,8 +35,8 @@ VUE_APP_GOOGLE_MAPS_API_KEY - Your Google Maps API key.
 ## Running the Application
 Clone the repository
 
-git clone https://github.com/<your-github-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/ziangit/miniproject.git
+cd miniproject
 
 Start the Docker containers
 docker-compose up --build
