@@ -57,14 +57,19 @@ After starting the application, navigate to the frontend URL. Start typing a U.S
 ## Demo
 
 ![Default Layout](img/default.png)
+Default Layout
 
 ![a with multiple matches](img/a.png)
+A with multiple matches
 
 ![California](img/CA.png)
+Highlight California
 
 ![Highlight](img/highlight.png)
+Highlight Alaska
 
 ![graphQL playground with mongoDB](img/graphQL.png)
+graphQL playground with mongoDB
 
 
 
