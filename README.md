@@ -28,11 +28,6 @@ Before you begin, ensure you have met the following requirements:
 
 ## Setup and Installation
 
-### Environment Variables
-
-Copy the `.env.example` file to a new file named `.env` and update the environment variables:
-
-
 ## Variables include:
 
 VUE_APP_GOOGLE_MAPS_API_KEY - Your Google Maps API key.
