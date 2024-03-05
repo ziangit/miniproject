@@ -1,6 +1,6 @@
 # Simple GoogleMap mini-project
 
-<This project demos a small typeahead suggestion input for all American states and territories and a google map highlighting the states based on users selection. >
+This project demos a small typeahead suggestion input for all American states and territories and a google map highlighting the states based on users selection. 
 
 ## Features
 
