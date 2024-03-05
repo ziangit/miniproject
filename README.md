@@ -54,4 +54,19 @@ Backend (GraphQL Playground): http://localhost:3000/graphql
 ## Usage
 After starting the application, navigate to the frontend URL. Start typing a U.S. state name in the search bar to see typeahead suggestions. Selecting a state will dynamically update the map and highlight the selected state.
 
+## Demo
+
+![Default Layout](img/default.png)
+
+![a with multiple matches](img/a.png)
+
+![California](img/CA.png)
+
+![Highlight](img/highlight.png)
+
+![graphQL playground with mongoDB](img/graphQL.png)
+
+
+
+
 
