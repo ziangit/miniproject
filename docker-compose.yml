@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  backend:
+    build: ./miniProjectBackend  
+    ports:
+      - "3000:3000"
+    links:
+      - mongodb
+  frontend:
+    build: ./miniProjectFrontend
+    ports:
+      - "80:80"
+  mongodb:
+    image: mongo
+    ports:
+      - "27017:27017"
